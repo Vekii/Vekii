@@ -1,3 +1,3 @@
-Hi there, im Veki {}
+Hi there, im Veki {👋}
 
-Im software developer, curently educating my self in new fields.
+Im software developer, curently educating my self in new fields. 🦾
